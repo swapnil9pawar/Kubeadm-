@@ -1,3 +1,7 @@
+Kubeadm V1.30 with latest ubuntu 22.04
+
+
+
 RUN THIS COMMAND IN MASTER NODE & wORKER NODE
       sudo swapoff -a
       # sysctl params required by setup, params persist across reboots
